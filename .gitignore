@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# 系统文件
+Thumbs.db
+
+# 本地预览临时文件
+*.log
